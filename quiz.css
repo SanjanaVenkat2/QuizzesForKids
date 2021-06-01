@@ -28,6 +28,7 @@ nav>a{
     padding: 10px 20px;
     box-shadow: 2px 5px rgb(223, 138, 209);
     background-image:linear-gradient(to bottom right,rgb(139, 58, 160),rgb(180, 150, 115));
+    font-weight:900;
 
 }
 .mainsection{
